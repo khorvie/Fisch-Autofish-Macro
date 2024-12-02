@@ -5,7 +5,7 @@
   [![Rating](https://img.shields.io/badge/Rating-5%20Stars-Gold?style=for-the-badge)](#)
 </div>
 
-***Don't forget to give us a star if you like this extension : )***
+***Don't forget to give us a star if you like this macro (it works much better than the others.) :)***
  
 To ensure the macro functions optimally, **set your Windows screen scale to 100%.** This prevents any potential misalignment that could disrupt the macro's performance.
 
